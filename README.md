@@ -8,4 +8,4 @@ To this end, I interface a lot with hardware especially with Neuromorphic Chips 
 ⏳ Previously, I worked on diffusion models, differentiable rendering, vision-language model to reconstruct and de-noise 3D point clouds from images. 
 I also worked on conditional 3D scene generation architectures from scene graphs and designed my own graph transformer from scratch (back in 2021).
 
-❤️ Passions : AI, the sea, engineering, science, walking, pizza, fruits (especially watermelon).
+❤️ Passions : AI, walking, public speaking.
