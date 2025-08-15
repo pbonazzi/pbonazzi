@@ -1,2 +1,3 @@
 
-👋🏻 I am a PhD Student at ETH Zürich. Previously, I received my MSc. degree from the University of Zürich. I was a research student at Google for my Master Thesis and Master Project.
+👋🏻 I’m a PhD researcher at ETH Zürich focused on low-latency, efficient machine learning systems—especially those deployable on constrained hardware like embedded platforms. Alongside my academic work, I consult as an AI engineer at Lugano AI Technologies, helping organizations build practical and optimized ML pipelines based on LLMs. During my Master studies, I collaborated with Federico Tombari’s group at Google, working on differentiable rendering, graph-based transformers, and diffusion models. My broader research interests include real-time perception and efficient computing.
+
